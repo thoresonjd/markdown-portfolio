@@ -3,29 +3,12 @@ Portfolio for Justin Thoreson
 
 # Justin Thoreson
 
-[Education](./education.md#education)
+[Education](./education.md)
 
-### Projects
+[Projects](./projects.md)
 
-**Votegrity SaaS Solution** | September 2021 - Present\
-Sponsor: Tom Thomas - Votegrity Founder & CEO
+[Experience](./experience.md)
 
-**Depth Spectrum**
+[Skills & Qualifications](./qualifications.md)
 
-**Portal**
-
-**Global Calendar**
-
-### Experience
-
-**Computer Science Teaching Assistant**\
-Seattle University - Seattle, WA\
-June 2021 - Present
-
-**Sales Associate**\
-The Home Depot - Snohomish, WA\
-June 2020 - Present
-
-### Skills & Qualifications
-
-### Honors & Extracurriculars
+[Honors & Extracurricilars](./extracurriculars.md)
