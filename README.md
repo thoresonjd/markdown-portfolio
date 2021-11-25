@@ -14,7 +14,7 @@
       </td>
       <td width="50%">
         <div>
-            <img alt="Photo" src="https://raw.githubusercontent.com/thoresonjd/portfolio/main/SU_ID.jpg?token=ASRV5J5ZRABL2XJUJ2GBP6DBT4TKG" />
+            <img alt="Photo" src="./SU_ID.jpg" />
         </div>
       </td>
     </tr>
