@@ -1,13 +1,13 @@
 ## Skills & Qualifications
 
-**Languages**\
+### Languages
 C++, C#, Java, Python, HTML/CSS, JavaScript, SQL, F#, C, TypeScript
 
-**Other Technical Skills**\
+### Other Technical Skills
 JetBrains IDEs, Visual Studio, Git, GitHub
 
-**Principles**\
+### Principles
 Agile, Scrum, Kanban, Software as a Service, Object-Oriented Design
 
-**Soft Skills**\
+### Soft Skills
 Communication, collaboration, adaptability, problem-solving, critical thinking
