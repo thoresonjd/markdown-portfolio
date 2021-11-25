@@ -1,4 +1,4 @@
-### Education
+## Education
 
 **Bachelor of Science in Computer Science**\
 Seattle University - Seattle, WA\
@@ -7,12 +7,10 @@ Minor: Data Science\
 Electives: Software as a Service, Computer Graphics\
 GPA: 3.932
 
-**General Studies**\
+**General Studies** | September 2017 - June 2019\
 Everett Community College - Everett, WA\
-September 2017 - June 2019\
 GPA: 3.74
 
-**High School Diploma**\
+**High School Diploma** | Graduated June 2019\
 Granite Falls High School - Granite Falls, WA\
-September 2015 - June 2019\
 GPA: 3.71
