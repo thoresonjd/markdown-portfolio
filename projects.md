@@ -1,4 +1,4 @@
-## Projects
+# Projects
 
 **Votegrity SaaS Solution** | September 2021 - Present\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
