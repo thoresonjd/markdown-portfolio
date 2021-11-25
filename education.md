@@ -1,4 +1,4 @@
-## Education
+# Education
 
 **Bachelor of Science in Computer Science**\
 Seattle University - Seattle, WA\
