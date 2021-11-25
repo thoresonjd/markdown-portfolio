@@ -1,4 +1,4 @@
-### Honors & Extracurriculars
+## Honors & Extracurriculars
 
 • Seattle University Association for Computing Machinery | Sep. 2019 – Present\
 • President & Dean’s list | Seattle University\
