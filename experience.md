@@ -1,4 +1,4 @@
-## Experience
+# Experience
 
 **Computer Science Teaching Assistant** || June 2021 - Present\
 Seattle University || Seattle, WA\
