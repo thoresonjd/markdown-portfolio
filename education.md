@@ -1,5 +1,7 @@
 # Education
 
+**Will begin Master's degree in Fall 2022 @ Seattle University**
+
 **Bachelor of Science in Computer Science**\
 Seattle University - Seattle, WA\
 Anticipated Gradutation: June 2022\
