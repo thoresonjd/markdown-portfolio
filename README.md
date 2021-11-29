@@ -1,5 +1,4 @@
-# Justin Thoreson
-
+<h1 align="center">Justin Thoreson</h1>
 <table>
   <tbody>
     <tr>
