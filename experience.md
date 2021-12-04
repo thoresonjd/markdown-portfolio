@@ -7,6 +7,8 @@ Computer Science Teaching Assistant\
 • Providing constructive feedback to over seventy students via tutoring and grading\
 • IntelliJ, Vim, GitHub, Canvas Instructure
 
+---
+
 **The Home Depot** | June 2020 - Present\
 Sales Associate\
 • Front-line service and store maintainability\
