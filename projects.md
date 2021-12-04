@@ -9,7 +9,7 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 ---
 
-**Portal Illusion** | September 2021 - Present\
+**Portal Illusion** | September 2021 - December 2021\
 •	Creating a computer graphics simulation of an illusion of a cube passing through a portal\
 •	C++, GLSL, OpenGL, Visual Studio
 
