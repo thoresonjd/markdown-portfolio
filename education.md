@@ -1,3 +1,5 @@
+[Back to main page](./README.md)
+
 # Education
 
 **Will begin Master's degree in Fall 2022 @ Seattle University**
