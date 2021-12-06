@@ -1,3 +1,5 @@
+[Back to main page](./README.md)
+
 # Projects
 
 **Votegrity SaaS Solution** | September 2021 - Present\
@@ -38,3 +40,7 @@ Database design that functions as the underlying structure of a hypothetical onl
 [ASCII Rocket Launch](https://github.com/thoresonjd/ascii-rocket-launch) | June 2019 - June 2019\
 A simple C++ program of a rocket ship launch animation.\
 One of the first programs I wrote when I began learning to program Spring 2019.
+
+---
+
+[Back to main page](./README.md)
