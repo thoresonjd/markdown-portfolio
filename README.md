@@ -4,9 +4,7 @@
     <tr>
       <td><b>Contact Information</b></td>
       <td width="50%" rowspan="4">
-        <div>
-            <img alt="Photo" src="./SU_ID.jpg" />
-        </div>
+        <img alt="Photo" src="./SU_ID.jpg" />
       </td>
     </tr>
     <tr>
