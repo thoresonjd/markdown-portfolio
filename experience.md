@@ -1,3 +1,5 @@
+[Back to main page](./README.md)
+
 # Experience
 
 **Seattle University** | June 2021 - Present\
@@ -15,3 +17,7 @@ Sales Associate\
 • Interacting with customers and vendors, fulfilling online orders, restocking inventory\
 • Providing recognizable customer service and consistent help to several coworkers\
 • Certifications: plumbing department, electric ladder, pipe threader
+
+---
+
+[Back to main page](./README.md)
