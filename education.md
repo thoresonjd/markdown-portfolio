@@ -24,3 +24,7 @@ GPA: 3.74
 **High School Diploma** | Graduated June 2019\
 Granite Falls High School - Granite Falls, WA\
 GPA: 3.71
+
+---
+
+[Back to main page](./README.md)
