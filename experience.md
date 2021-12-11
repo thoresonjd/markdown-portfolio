@@ -2,6 +2,11 @@
 
 # Experience
 
+**Student IT Architecture Competition VII** | December 2021 - Present\
+Community of IT Architecture Practitioners
+
+---
+
 **Seattle University** | June 2021 - Present\
 Computer Science Teaching Assistant\
 • Algorithms and Java programming courses\
