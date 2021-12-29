@@ -3,7 +3,8 @@
 # Experience
 
 **Student IT Architecture Competition VII** | December 2021 - Present\
-Community of IT Architecture Practitioners
+Community of IT Architecture Practitioners\
+• Designing architecture for a hypothetical app with a focus on sustainability
 
 ---
 
