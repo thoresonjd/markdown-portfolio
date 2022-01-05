@@ -5,7 +5,7 @@
 **Votegrity SaaS Solution** | September 2021 - Present\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
 • Responsible for building a new admin tool\
-• Project management, collaborating with a team to formulate initial project design\
+• Project management, Dev Ops, collaborating with a team to design an integrate Votegrity’s new admin tool\
 • Codifying election creation and ballot design functionality through drag and drop\
 • JavaScript, HTML/CSS, React, Visual Studio, Agile, Scrum
 
