@@ -6,9 +6,8 @@
 
 ---
 
-**Bachelor of Science in Computer Science**\
+**Bachelor of Science in Computer Science** | Anticipated June 2022\
 Seattle University - Seattle, WA\
-Anticipated Gradutation: June 2022\
 Minor: Data Science\
 Electives: Software as a Service, Computer Graphics\
 GPA: 3.932
