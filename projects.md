@@ -26,7 +26,8 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 ---
 
 [Online Learning Database](https://github.com/thoresonjd/online-learning-database) | March 2021 - June 2021\
-Database design that functions as the underlying structure of a hypothetical online learning scheduling service
+•	Database design that functions as the underlying structure of a hypothetical online learning scheduling service\
+•	MySQL, PHP, HTML/CSS
 
 ---
 
