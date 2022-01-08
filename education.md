@@ -10,7 +10,7 @@
 Seattle University - Seattle, WA\
 Minor: Data Science\
 Electives: Software as a Service, Computer Graphics\
-GPA: 3.932
+GPA: 3.941
 
 ---
 
