@@ -38,7 +38,7 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 ---
 
-[ASCII Rocket Launch](https://github.com/thoresonjd/ascii-rocket-launch) | June 2019
+[ASCII Rocket Launch](https://github.com/thoresonjd/ascii-rocket-launch) | June 2019\
 A simple C++ program of a rocket ship launch animation.\
 One of the first programs I wrote when I began learning to program Spring 2019.
 
