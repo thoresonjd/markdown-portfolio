@@ -11,9 +11,9 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 ---
 
-[Portal Illusion](https://github.com/thoresonjd/ComputerGraphics/tree/main/Projects/Apps/Source/PortalIllusion) | September 2021 - December 2021\
-•	Creating a computer graphics simulation of an illusion of a cube passing through a portal\
-•	C++, GLSL, OpenGL, Visual Studio
+[WinPyTools](https://github.com/thoresonjd/WinPyTools) | January 2022 - Present\
+• Windows shortcuts with hotkey commands\
+• Python, Visual Studio Code
 
 ---
 
@@ -22,6 +22,12 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 •	Fullstack, UX/UI\
 •	Designed UI and created camera functionality for image processing\
 •	Dart, Flutter, Visual Studio Code
+
+---
+
+[Portal Illusion](https://github.com/thoresonjd/ComputerGraphics/tree/main/Projects/Apps/Source/PortalIllusion) | September 2021 - December 2021\
+•	Creating a computer graphics simulation of an illusion of a cube passing through a portal\
+•	C++, GLSL, OpenGL, Visual Studio
 
 ---
 
@@ -39,8 +45,9 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 ---
 
 [ASCII Rocket Launch](https://github.com/thoresonjd/ascii-rocket-launch) | June 2019\
-A simple C++ program of a rocket ship launch animation.\
-One of the first programs I wrote when I began learning to program Spring 2019.
+• A simple C++ program of a rocket ship launch animation.\
+• One of the first programs I wrote when I began learning to program Spring 2019.\
+• C++, Visual Studio
 
 ---
 
