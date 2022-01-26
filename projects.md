@@ -17,17 +17,17 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 ---
 
+[Portal Illusion](https://github.com/thoresonjd/ComputerGraphics/tree/main/Projects/Apps/Source/PortalIllusion) | September 2021 - December 2021\
+•	Creating a computer graphics simulation of an illusion of a cube passing through a portal\
+•	C++, GLSL, OpenGL, Visual Studio
+
+---
+
 [Depth Spectrum](https://github.com/varelandrew/DepthSpectrum) | October 2021 - November 2021\
 •	Mobile application that transforms 2D images into 3D models where pixel depth is depended on colorblindness type\
 •	Fullstack, UX/UI\
 •	Designed UI and created camera functionality for image processing\
 •	Dart, Flutter, Visual Studio Code
-
----
-
-[Portal Illusion](https://github.com/thoresonjd/ComputerGraphics/tree/main/Projects/Apps/Source/PortalIllusion) | September 2021 - December 2021\
-•	Creating a computer graphics simulation of an illusion of a cube passing through a portal\
-•	C++, GLSL, OpenGL, Visual Studio
 
 ---
 
