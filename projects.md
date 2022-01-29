@@ -24,7 +24,7 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 ---
 
 [Depth Spectrum](https://github.com/varelandrew/DepthSpectrum) | October 2021 - November 2021\
-•	Mobile application that transforms 2D images into 3D models where pixel depth is depended on colorblindness type\
+•	Mobile application that transforms 2D images into 3D models where pixel depth is dependent on colorblindness type\
 •	Fullstack, UX/UI\
 •	Designed UI and created camera functionality for image processing\
 •	Dart, Flutter, Visual Studio Code
