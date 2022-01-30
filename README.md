@@ -2,7 +2,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Contact Information</b></td>
+      <td><b>Information</b></td>
       <td width="50%" rowspan="4">
         <img alt="Photo" src="./SU_ID.jpg" />
       </td>
@@ -16,7 +16,7 @@
         </ul>
       </td>
     </tr>
-    <tr><td><b>Portfolio Information</b></td></tr>
+    <tr><td><b>Showcase</b></td></tr>
     <tr>
       <td width="50%">
         <ul>
