@@ -1,4 +1,4 @@
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
 
 # Projects
 
@@ -51,4 +51,4 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 ---
 
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
