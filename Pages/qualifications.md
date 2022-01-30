@@ -1,4 +1,4 @@
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
 
 # Skills & Qualifications
 
@@ -22,4 +22,4 @@ Communication, collaboration, adaptability, problem-solving, critical thinking
 
 ---
 
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
