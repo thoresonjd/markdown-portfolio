@@ -20,11 +20,11 @@
     <tr>
       <td width="50%">
         <ul>
-          <li><a href="./education.md">Education</a></li>
-          <li><a href="./experience.md">Experience</a></li>
-          <li><a href="./projects.md">Projects</a></li>
-          <li><a href="./qualifications.md">Skills & Qualifications</a></li>
-          <li><a href="./extracurriculars.md">Honors & Extracurriculars</a></li>
+          <li><a href="./Pages/education.md">Education</a></li>
+          <li><a href="./Pages/experience.md">Experience</a></li>
+          <li><a href="./Pages/projects.md">Projects</a></li>
+          <li><a href="./Pages/qualifications.md">Skills & Qualifications</a></li>
+          <li><a href="./Pages/extracurriculars.md">Honors & Extracurriculars</a></li>
         </ul>
       </td>
     </tr>
