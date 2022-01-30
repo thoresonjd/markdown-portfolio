@@ -1,4 +1,4 @@
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
 
 # Experience
 
@@ -26,4 +26,4 @@ Sales Associate\
 
 ---
 
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
