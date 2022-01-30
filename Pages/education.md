@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>
-      <b>General Studies</b> | September 2017 - June 2019<br />
+      <b>Running Start</b> | September 2017 - June 2019<br />
       Everett Community College - Everett, WA<br />
       GPA: 3.74
     </td>
