@@ -1,4 +1,4 @@
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
 
 # Honors & Extracurriculars
 
@@ -9,4 +9,4 @@
 
 ---
 
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
