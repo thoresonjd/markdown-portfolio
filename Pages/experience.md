@@ -4,8 +4,8 @@
 <table>
   <tr>
     <td width="80%">
-      <b>Seattle University</b> | June 2021 - Present<br />
-      Computer Science Teaching Assistant<br />
+      <b>Computer Science Teaching Assistant</b> | June 2021 - Present<br />
+      Seattle University<br />
       <ul>
         <li>Algorithms and Java programming courses</li>
         <li>Tutoring and grading over seventy students, formulating grading rubrics alongside several other TAs</li>
@@ -17,8 +17,8 @@
   </tr>
   <tr>
     <td>
-      <b>The Home Depot</b> | June 2020 - Present<br />
-      Sales Associate<br />
+      <b>Sales Associate</b> | June 2020 - Present<br />
+      The Home Depot<br />
       <ul>
         <li>Front-line service and store maintainability</li>
         <li>Interacting with customers and vendors, fulfilling online orders, restocking inventory</li>
