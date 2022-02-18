@@ -6,7 +6,7 @@
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
 • Responsible for building a new admin tool\
 • Project management, Dev Ops, collaborating with a team to design and integrate new admin tool\
-• Codifying election creation and ballot design functionality through drag and drop\
+• Codifying election creation and ballot design functionality\
 • JavaScript, HTML/CSS, React, Visual Studio, Agile, Scrum
 
 ---
