@@ -11,6 +11,12 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 ---
 
+[Predicting Stock Market w/ Sentiment Analysis](https://github.com/a-wallen/stm-toolkit) | February 2022\
+• Seattle University Winter 2022 Hackathon\
+• Python, Visual Studio Code
+
+---
+
 [WinPyTools](https://github.com/thoresonjd/WinPyTools) | January 2022\
 • Windows shortcuts with hotkey commands\
 • Python, Visual Studio Code
