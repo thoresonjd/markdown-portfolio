@@ -12,7 +12,7 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 ---
 
 [Predicting Stock Market w/ Sentiment Analysis](https://github.com/a-wallen/stm-toolkit) | February 2022\
-• HackSU 2022 - 2nd place\
+• 2nd place - HackSU 2022\
 • Python, Visual Studio Code
 
 ---
@@ -30,9 +30,9 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 ---
 
 [Depth Spectrum](https://github.com/varelandrew/DepthSpectrum) | October 2021 - November 2021\
+• 3rd Place - Personal Projects Competition SU ACM\
 •	Mobile application that transforms 2D images into 3D models where pixel depth is dependent on colorblindness type\
-•	Fullstack, UX/UI\
-•	Designed UI and created camera functionality for image processing\
+•	Fullstack, designed UX/UI and created camera functionality for image processing\
 •	Dart, Flutter, Visual Studio Code
 
 ---
