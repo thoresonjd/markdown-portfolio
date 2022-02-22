@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td width="80%">
-      <b>Computer Science Teaching Assistant</b> | June 2021 - Present<br />
+      <b>Tutor, TA, Grader - CSSE</b> | June 2021 - Present<br />
       Seattle University<br />
       <ul>
         <li>Algorithms and Java programming courses</li>
