@@ -13,8 +13,8 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 [Predicting Stock Market w/ Sentiment Analysis](https://github.com/a-wallen/stm-toolkit) | February 2022\
 • 2rd place - HackSU 2022\
-• Analyzing finance articles via web scraping and NLP
-• Comparing sentiment analysis score with change in stock prices
+• Analyzing finance articles via web scraping and NLP\
+• Comparing sentiment analysis score with change in stock prices\
 • Python, Visual Studio Code
 
 ---
