@@ -21,7 +21,7 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 [WinPyTools](https://github.com/thoresonjd/WinPyTools) | January 2022\
 • Windows shortcuts with hotkey commands\
-• Python, Visual Studio Code
+• Python, Visual Studio Code, Azure Functions
 
 ---
 
