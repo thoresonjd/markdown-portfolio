@@ -4,6 +4,18 @@
 <table>
   <tr>
     <td width="80%">
+      <b>Incoming TPM Intern @ T-Mobile</b>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <b>Incoming SDE Intern @ Votegrity</b>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
       <b>Tutor, TA, Grader - CSSE</b> | June 2021 - Present<br />
       Seattle University<br />
       <ul>
