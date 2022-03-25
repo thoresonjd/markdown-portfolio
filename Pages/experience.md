@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-      <b>Incoming SDE Intern @ Votegrity</b>
+      <b>Incoming SWE Intern @ Votegrity</b>
     </td>
     <td></td>
   </tr>
