@@ -11,6 +11,11 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 ---
 
+[K-means via Spark](https://github.com/thoresonjd/k-means_spark) | February 2022\
+• Implements the K-means clustering algorithm in Spark via RDDs
+
+---
+
 [Predicting Stock Market w/ Sentiment Analysis](https://github.com/a-wallen/stm-toolkit) | February 2022\
 • 2nd place - HackSU 2022\
 • Analyzing finance articles via web scraping and NLP\
