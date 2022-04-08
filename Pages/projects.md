@@ -12,7 +12,8 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 ---
 
 [K-means via Spark](https://github.com/thoresonjd/k-means_spark) | February 2022\
-• Implements the K-means clustering algorithm in Spark via RDDs
+• Implements the K-means clustering algorithm in Spark via RDDs\
+• Spark, RDDs, Python, VS Code
 
 ---
 
