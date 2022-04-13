@@ -1,6 +1,6 @@
 [Back to main page](./../README.md)
 
-# Projects
+<h1 align="center">Projects</h1>
 
 **Votegrity SaaS Solution** | September 2021 - Present\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
@@ -8,6 +8,11 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 • Project Manager, Scrum Master, DevOps, collaborating with a team to build a new admin tool\
 • Codifying election creation functionality for election administrators\
 • React, JavaScript, HTML/CSS, Visual Studio, Agile, Scrum
+
+---
+
+[Image Processor](https://github.com/thoresonjd/image-processor) | April 2022 - Present\
+• Image processor API\
 
 ---
 
