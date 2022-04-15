@@ -12,7 +12,7 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 ---
 
 [Image Processor](https://github.com/thoresonjd/image-processor) | April 2022 - Present\
-• Image processor API\
+• Image processor API
 
 ---
 
