@@ -4,11 +4,18 @@
 <table>
   <tr>
     <td width="80%">
-      <b>Bachelor of Science in Computer Science</b> | Anticipated June 2022<br />
+      <b>Master of Science in Computer Science</b> | Anticipated June 2023<br />
       Seattle University - Seattle, WA<br />
-      Minor: Data Science<br />
-      Electives: Software as a Service, Computer Graphics<br />
-      GPA: 3.947
+      GPA: 4.0
+    </td>
+    <td><image alt="SU" src="https://user-images.githubusercontent.com/77815463/150693411-28d04330-c00d-46a1-a18a-3bc3b96acb0a.jpg" /></td>
+  </tr>
+  <tr>
+    <td>
+      <b>Bachelor of Science in Computer Science, Minor in Data Science</b> | Anticipated June 2022<br />
+      Seattle University - Seattle, WA<br />
+      GPA: 3.947<br />
+      Electives: Software as a Service, Software Testing & Debugging, Computer Graphics, Big Data Analytics
     </td>
     <td><image alt="SU" src="https://user-images.githubusercontent.com/77815463/150693411-28d04330-c00d-46a1-a18a-3bc3b96acb0a.jpg" /></td>
   </tr>
