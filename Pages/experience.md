@@ -20,8 +20,8 @@
       Seattle University<br />
       <ul>
         <li>Algorithms and Java programming courses</li>
-        <li>Tutoring and grading over seventy students, formulating grading rubrics alongside several other TAs</li>
-        <li>Providing constructive feedback to over seventy students via tutoring and grading</li>
+        <li>Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs</li>
+        <li>Provided constructive feedback to 100+ students via tutoring and grading</li>
         <li>IntelliJ, Vim, GitHub, Canvas Instructure</li>
       </ul>
     </td>
@@ -33,8 +33,8 @@
       The Home Depot<br />
       <ul>
         <li>Front-line service and store maintainability</li>
-        <li>Interacting with customers and vendors, fulfilling online orders, restocking inventory</li>
-        <li>Providing recognizable customer service and consistent help to several coworkers</li>
+        <li>Interacted w/ customers and vendors, fulfilled online orders, restocked inventory</li>
+        <li>Provided recognizable customer service and consistent help to several coworkers</li>
         <li>Certifications: plumbing department, electric ladder, pipe threader</li>
       </ul>
     </td>
