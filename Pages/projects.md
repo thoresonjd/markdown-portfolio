@@ -66,8 +66,7 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 [Global Calendar](https://github.com/Alex-Sheardown/Global-Calendar) | January 2021 - March 2021\
 •	Scheduling service that provides a convenient way to schedule events across different time zones\
-•	Fullstack, SaaS, Agile, Scrum\
-•	TypeScript, HTML/CSS, Angular, MongoDB, WebStorm
+•	TypeScript, HTML/CSS, Angular, MongoDB, WebStorm, Fullstack, SaaS, Agile, Scrum
 
 ---
 
