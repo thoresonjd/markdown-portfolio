@@ -5,7 +5,7 @@
 **Votegrity SaaS Solution** | September 2021 - Present\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
 • Responsible for building a new admin tool\
-• Project Manager, Scrum Master, DevOps, collaborating with a team to build a new admin tool\
+• Project Manager, Scrum Master, DevOps, collaborating with a team to design and integrate a new admin tool\
 • Codifying election creation functionality for election administrators\
 • React, JavaScript, HTML/CSS, Visual Studio, Agile, Scrum
 
@@ -20,21 +20,21 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 [Image Processor](https://github.com/thoresonjd/image-processor) | April 2022 - Present\
 • Image processor API created with emphasis on architectural design patterns\
 • Utilizes a RESTful API to process image transformations\
-• TypeScript, Python, React, Flask, REST
+• TypeScript, Python, React, Flask, REST, VS Code
 
 ---
 
 [K-means via Spark](https://github.com/thoresonjd/k-means_spark) | February 2022\
-• Implements the K-means clustering algorithm in Spark via RDDs\
-• Spark, RDDs, Python, VS Code
+• Implements K-means clustering in Spark via RDDs\
+• Apache Spark, RDDs, Python, VS Code
 
 ---
 
 [Predicting Stock Market w/ Sentiment Analysis](https://github.com/a-wallen/stm-toolkit) | February 2022\
 • 2nd place - HackSU 2022\
-• Analyzing finance articles via web scraping and NLP\
-• Comparing sentiment analysis score with change in stock prices\
-• Python, Visual Studio Code
+• Analyzed finance articles via web scraping and NLP\
+• Compared sentiment analysis score w/ stock price changes\
+• Python, VS Code
 
 ---
 
@@ -71,8 +71,8 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 ---
 
 [ASCII Rocket Launch](https://github.com/thoresonjd/ascii-rocket-launch) | June 2019\
-• A simple C++ program of a rocket ship launch animation.\
-• One of the first programs I wrote when I began learning to program Spring 2019.\
+• A simple program animating an ASCII rocket ship launch\
+•	My first personal project, and one of my first programs\
 • C++, Visual Studio
 
 ---
