@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>
-      <b>Tutor, TA, Grader - CSSE</b> | June 2021 - Present<br />
+      <b>Tutor, TA, Grader - CSSE</b> | June 2021 - June 2022<br />
       Seattle University<br />
       <ul>
         <li>Algorithms and Java programming courses</li>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>
-      <b>Sales Associate</b> | June 2020 - Present<br />
+      <b>Sales Associate</b> | July 2020 - June 2022<br />
       The Home Depot<br />
       <ul>
         <li>Front-line service and store maintainability</li>
