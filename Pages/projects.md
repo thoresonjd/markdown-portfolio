@@ -2,7 +2,7 @@
 
 <h1 align="center">Projects</h1>
 
-**Votegrity SaaS Solution** | September 2021 - Present\
+**Votegrity SaaS Solution** | September 2021 - June 2022\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
 • Responsible for building a new admin tool\
 • Project Manager, Scrum Master, DevOps, collaborating with a team to design and integrate a new admin tool\
