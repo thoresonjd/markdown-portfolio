@@ -11,12 +11,6 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 
 ---
 
-[Java Checkers Unit Testing](https://github.com/thoresonjd/Java-Checkers) | April 2022 - Present\
-• Unit tests for open source [Java Checkers](https://github.com/DevonMcGrath/Java-Checkers) game created by Devon McGrath\
-• Java, JUnit, IntelliJ
-
----
-
 [Image Processor](https://github.com/thoresonjd/image-processor) | April 2022 - Present\
 • Image processor API created with emphasis on architectural design patterns\
 • Utilizes a RESTful API to process image transformations\
