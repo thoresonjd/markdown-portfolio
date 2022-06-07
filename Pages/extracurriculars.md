@@ -2,6 +2,7 @@
 
 # Honors & Extracurriculars
 
+• Outstanding Computer Science Undergraduate Student Award 2022 - Seattle University\
 • Seattle University Association for Computing Machinery | September 2019 – Present\
 • President & Dean’s list - Seattle University\
 • Skills That Shine Mentee & Baccalaureate Scholar - Washington State Opportunity Scholarship | 2020 – Present\
