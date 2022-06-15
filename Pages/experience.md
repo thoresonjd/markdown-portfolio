@@ -22,7 +22,7 @@
         <li>Algorithms and Java programming courses</li>
         <li>Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs</li>
         <li>Provided constructive feedback to 100+ students via tutoring and grading</li>
-        <li>IntelliJ, Vim, GitHub, Canvas Instructure</li>
+        <li>Java, IntelliJ, Vim, Emacs, GitHub, Canvas Instructure, Slack, Google Docs & Sheets</li>
       </ul>
     </td>
     <td><image alt="SU" src="https://user-images.githubusercontent.com/77815463/150693411-28d04330-c00d-46a1-a18a-3bc3b96acb0a.jpg" /></td>
