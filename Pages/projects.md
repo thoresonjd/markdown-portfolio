@@ -14,7 +14,7 @@ Sponsor: Tom Thomas - Votegrity Founder & CEO\
 [Image Processor](https://github.com/thoresonjd/image-processor) | April 2022 - May 2022\
 • Image processor API created with emphasis on architectural design patterns\
 • Utilizes a RESTful API to process image transformations\
-• TypeScript, C#, Python, React, Flask, REST, VS Code
+• C#, Python, TypeScript, React, Flask, REST, VS Code
 
 ---
 
