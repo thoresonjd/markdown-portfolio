@@ -3,14 +3,18 @@
 <h1 align="center">Experience</h1>
 <table>
   <tr>
+    <tr>
     <td width="80%">
-      <b>Incoming TPM Intern @ T-Mobile</b>
+      <b>Technical Program Manager Intern</b> | June 2022 - Present<br />
+      T-Mobile<br />
     </td>
     <td></td>
   </tr>
+  </tr>
 <!--   <tr>
     <td>
-      <b>Incoming SWE Intern @ Votegrity</b>
+      <b>Software Developer Intern</b> | June 2022 - Present<br />
+      Votegrity<br />
     </td>
     <td></td>
   </tr> -->
