@@ -5,7 +5,7 @@
   <tr>
     <tr>
     <td width="80%">
-      <b>Technical Program Manager Intern</b> | June 2022 - Present<br />
+      <b>Technical Program Management Associate - UofMagenta Intern</b> | June 2022 - Present<br />
       T-Mobile<br />
     </td>
     <td></td>
