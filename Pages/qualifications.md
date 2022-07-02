@@ -3,7 +3,7 @@
 # Skills & Qualifications
 
 ### Languages & Tools
-C++, C#, Python, HTML, CSS, JavaScript, React, Dart, Flutter, SQL, F#, Java, C, TypeScript
+C++, C#, Python, React, TypeScript, JavaScript, HTML/CSS, Java, SQL, F#
 
 ---
 
