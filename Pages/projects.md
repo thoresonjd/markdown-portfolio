@@ -1,11 +1,9 @@
 [Back to main page](./../README.md)
 
 <h1 align="center">Projects</h1>
-<!--
-**API Security** | June 2022 - Present
 
---- 
--->
+<!-- **API Security** | June 2022 - Present -->
+
 **Votegrity SaaS Solution** | September 2021 - June 2022\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
 • Responsible for building a new admin tool\
