@@ -11,6 +11,7 @@ T-Mobile\
 ---
 
 **Votegrity SaaS Solution** | September 2021 - June 2022\
+Senior Capstone Project\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
 • Responsible for building a new admin tool\
 • Project Manager, Scrum Master, DevOps, collaborated with a team to design and integrate a new admin tool\
