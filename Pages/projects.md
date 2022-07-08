@@ -6,7 +6,7 @@
 T-Mobile\
 • Architecting a solution for scalable API authorization\
 • Technical Program Management Associate - UofMagenta intern, Digital Technology & Architecture\
-• TypeScript, JavaScript, VS Code
+• TypeScript, JavaScript, VS Code, GitLab
 
 ---
 
