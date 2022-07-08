@@ -2,7 +2,13 @@
 
 <h1 align="center">Projects</h1>
 
-<!-- **API Security** | June 2022 - Present -->
+**API Security** | June 2022 - Present\
+T-Mobile\
+• Architecting a solution for scalable API authorization\
+• Technical Program Management Associate - UofMagenta intern, Digital Technology & Architecture\
+• TypeScript, JavaScript, VS Code
+
+---
 
 **Votegrity SaaS Solution** | September 2021 - June 2022\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
