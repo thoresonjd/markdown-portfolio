@@ -7,6 +7,11 @@
     <td width="80%">
       <b>Technical Program Management Associate - UofMagenta Intern</b> | June 2022 - Present<br />
       T-Mobile<br />
+      <ul>
+        <li>Digital Technology & Architecture, Architecture & CyberSecurity</li>
+        <li>Architecting a solution for scalable API authorization</li>
+        <li>TypeScript, JavaScript, VS Code</li>
+      </ul>
     </td>
     <td><image alt="T-Mobile" src="https://user-images.githubusercontent.com/77815463/177466280-82d07270-7cf0-4fd0-bbaf-17a4e3e88abc.jpg"/></td>
   </tr>
