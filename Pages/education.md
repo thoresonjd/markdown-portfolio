@@ -16,6 +16,7 @@
       Seattle University - Seattle, WA<br />
       GPA: 3.955<br />
       Outstanding Computer Science Undergraduate Student Award 2022<br />
+      Summa Cum Laude<br />
       President's list 8x<br />
       Dean's list 9x
     </td>
