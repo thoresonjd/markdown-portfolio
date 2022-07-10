@@ -8,7 +8,7 @@
       <b>Technical Program Management Associate - UofMagenta Intern</b> | June 2022 - Present<br />
       T-Mobile<br />
       <ul>
-        <li>Digital Technology & Architecture, Architecture & CyberSecurity</li>
+        <li>Digital Technology & Architecture, CyberSecurity</li>
         <li>Architecting a solution for scalable API authorization collaboratively w/ my team</li>
         <li>TypeScript, JavaScript, VS Code, GitLab</li>
       </ul>
