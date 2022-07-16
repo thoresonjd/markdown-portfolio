@@ -4,7 +4,7 @@
 
 **API Security** | June 2022 - Present\
 T-Mobile
-* Architecting a solution for scalable API authorization
+* Contributing to the architecture for scalable API authorization
 * TypeScript, JavaScript, VS Code, GitLab
 
 ---
