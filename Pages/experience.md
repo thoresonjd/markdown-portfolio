@@ -2,6 +2,13 @@
 
 <h1 align="center">Experience</h1>
 <table>
+<!--   <tr>
+    <td>
+      <b>Software Engineer</b> | July 2022 - Present<br />
+      Votegrity<br />
+    </td>
+    <td><image alt="Votegrity" src="https://user-images.githubusercontent.com/77815463/177466915-f5f599af-cc27-428d-bf38-b8fc81cfce14.jpg" /></td>
+  </tr> -->
   <tr>
     <tr>
     <td width="80%">
@@ -16,13 +23,6 @@
     <td><image alt="T-Mobile" src="https://user-images.githubusercontent.com/77815463/177466280-82d07270-7cf0-4fd0-bbaf-17a4e3e88abc.jpg"/></td>
   </tr>
   </tr>
-<!--   <tr>
-    <td>
-      <b>Software Engineer</b> | July 2022 - Present<br />
-      Votegrity<br />
-    </td>
-    <td><image alt="Votegrity" src="https://user-images.githubusercontent.com/77815463/177466915-f5f599af-cc27-428d-bf38-b8fc81cfce14.jpg" /></td>
-  </tr> -->
   <tr>
     <td>
       <b>Tutor, TA, Grader - CSSE</b> | June 2021 - June 2022<br />
