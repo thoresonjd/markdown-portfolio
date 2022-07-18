@@ -16,7 +16,7 @@
       T-Mobile<br />
       <ul>
         <li>Digital Technology & Architecture, CyberSecurity</li>
-        <li>Architecting a solution for scalable API authorization collaboratively w/ my team</li>
+        <li>Contributing to the architecture for scalable API authorization</li>
         <li>TypeScript, JavaScript, VS Code, GitLab</li>
       </ul>
     </td>
