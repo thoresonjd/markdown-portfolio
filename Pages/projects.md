@@ -2,13 +2,6 @@
 
 <h1 align="center">Projects</h1>
 
-**API Security** | June 2022 - Present\
-T-Mobile
-* Contributing to the architecture for scalable API authorization
-* TypeScript, JavaScript, VS Code, GitLab
-
----
-
 **Votegrity SaaS Solution** | September 2021 - June 2022\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
 Senior Capstone Project
