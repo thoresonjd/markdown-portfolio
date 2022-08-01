@@ -67,7 +67,7 @@ Senior Capstone Project
 
 [ASCII Rocket Launch](https://github.com/thoresonjd/ascii-rocket-launch) | June 2019
 * A simple program animating an ASCII rocket ship launch
-*	My first personal project, and one of my first programs
+*	My first personal project and one of my first programs
 * C++, Visual Studio
 
 ---
