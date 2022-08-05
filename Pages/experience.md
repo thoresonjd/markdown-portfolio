@@ -4,7 +4,7 @@
 <table>
 <!--   <tr>
     <td>
-      <b>Software Engineer</b> | July 2022 - Present<br />
+      <b>Software Engineer</b> - Part Time | July 2022 - Present<br />
       Votegrity<br />
     </td>
     <td><image alt="Votegrity" src="https://user-images.githubusercontent.com/77815463/177466915-f5f599af-cc27-428d-bf38-b8fc81cfce14.jpg" /></td>
