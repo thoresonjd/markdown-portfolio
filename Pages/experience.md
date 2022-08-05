@@ -17,7 +17,7 @@
       <ul>
         <li>Digital Technology & Architecture, CyberSecurity</li>
         <li>Contributing to the architecture for scalable API authorization</li>
-        <li>TypeScript, JavaScript, VS Code, GitLab</li>
+        <li>TypeScript, JavaScript, SQL, Postman, VS Code, GitLab</li>
       </ul>
     </td>
     <td><image alt="T-Mobile" src="https://user-images.githubusercontent.com/77815463/177466280-82d07270-7cf0-4fd0-bbaf-17a4e3e88abc.jpg"/></td>
