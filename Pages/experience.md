@@ -2,13 +2,13 @@
 
 <h1 align="center">Experience</h1>
 <table>
-<!--   <tr>
+  <tr>
     <td>
       <b>Software Engineer</b> - Part Time | July 2022 - Present<br />
       Votegrity<br />
     </td>
-    <td><image alt="Votegrity" src="https://user-images.githubusercontent.com/77815463/177466915-f5f599af-cc27-428d-bf38-b8fc81cfce14.jpg" /></td>
-  </tr> -->
+    <td><image alt="Votegrity" src="../assets/images/votegrity-branding-dark.jpg" /></td>
+  </tr>
   <tr>
     <tr>
     <td width="80%">
@@ -20,7 +20,7 @@
         <li>TypeScript, JavaScript, SQL, Postman, VS Code, GitLab</li>
       </ul>
     </td>
-    <td><image alt="T-Mobile" src="https://user-images.githubusercontent.com/77815463/177466280-82d07270-7cf0-4fd0-bbaf-17a4e3e88abc.jpg"/></td>
+    <td><image alt="T-Mobile" src="../assets/images/tmo-logo.jpg"/></td>
   </tr>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
         <li>Java, IntelliJ, Vim, Emacs, GitHub, Canvas Instructure, Slack, Google Docs & Sheets</li>
       </ul>
     </td>
-    <td><image alt="SU" src="https://user-images.githubusercontent.com/77815463/150693411-28d04330-c00d-46a1-a18a-3bc3b96acb0a.jpg" /></td>
+    <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
   </tr>
   <tr>
     <td>
@@ -47,7 +47,7 @@
         <li>Certifications: plumbing department, electric ladder, pipe threader</li>
       </ul>
     </td>
-    <td><image alt="THD" src="https://user-images.githubusercontent.com/77815463/151709294-1b836044-b8d5-4c57-95cf-4d14bf307fb4.png" /></td>
+    <td><image alt="THD" src="../assets/images/thd-logo.png" /></td>
   </tr>
 </table>
 
