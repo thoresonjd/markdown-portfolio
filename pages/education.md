@@ -14,11 +14,10 @@
     <td>
       <b>Bachelor of Science in Computer Science, Minor in Data Science</b> | Graduated June 2022<br />
       Seattle University - Seattle, WA<br />
-      GPA: 3.955<br />
+      GPA: 3.953, Summa Cum Laude<br />
       Outstanding Computer Science Undergraduate Student Award 2022<br />
-      Summa Cum Laude<br />
-      President's list 8x<br />
-      Dean's list 9x
+      President's List 8x, Dean's List 9x<br />
+      <a href="https://github.com/thoresonjd/Programming-at-SeattleU">Programming projects & assignments</a>
     </td>
     <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
   </tr>

@@ -11,8 +11,7 @@
       <td>
         <ul>
           <li>thoresonjd@gmail.com</li>
-          <li><a href="https://www.linkedin.com/in/justinthoreson/">LinkedIn</a></li>
-          <li><a href="https://github.com/thoresonjd">GitHub</a></li>
+          <li><a href="./pages/links.md">Links</a></li>
         </ul>
       </td>
     </tr>

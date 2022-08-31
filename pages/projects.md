@@ -2,6 +2,12 @@
 
 <h1 align="center">Projects</h1>
 
+[React Portfolio](https://github.com/thoresonjd/react-portfolio) | August 2022 - Present
+* Designing and creating my own personal portfolio website in React
+* React, TypeScript, GitHub Pages, Material UI, VS Code
+
+---
+
 [Markdown Portfolio Template](https://github.com/thoresonjd/markdown-portfolio-template) | July 2022
 * Created a template to easily construct, customize, and publicize a personal portfolio
 * Markdown, GitHub, VS Code
@@ -46,7 +52,7 @@ Senior Capstone Project
 ---
 
 [Portal Illusion](https://github.com/thoresonjd/ComputerGraphics/tree/main/Apps/PortalIllusion) | September 2021 - December 2021
-*	Creating a computer graphics simulation of an illusion of a cube passing through a portal
+*	Created a computer graphics simulation of an illusion of a cube passing through a portal
 *	C++, GLSL, OpenGL, Visual Studio
 
 ---
