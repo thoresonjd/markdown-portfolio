@@ -4,7 +4,7 @@
 
 [React Portfolio](https://github.com/thoresonjd/react-portfolio) | August 2022 - Present
 * Designing and creating my own personal portfolio website in React
-* React, TypeScript, GitHub Pages, Material UI, VS Code
+* React, TypeScript, NodeJS, GitHub, VS Code
 
 ---
 
@@ -20,7 +20,7 @@ Senior Capstone Project
 * Responsible for building a new admin tool
 * Project Manager, Scrum Master, DevOps, collaborated with a team to design and integrate a new admin tool
 * Codified election creation functionality for election administrators
-* React, JavaScript, HTML/CSS, Visual Studio, Agile, Scrum
+* React, JavaScript, NodeJS, VS Code, Agile, Scrum
 
 ---
 
@@ -31,17 +31,17 @@ Senior Capstone Project
 
 ---
 
-[K-means via Spark](https://github.com/thoresonjd/k-means_spark) | February 2022
-* Implements K-means clustering in Spark via RDDs
-* Apache Spark, RDDs, Python, VS Code
-
----
-
 [Predicting Stock Market w/ Sentiment Analysis](https://github.com/a-wallen/stm-toolkit) | February 2022
 * 2nd place - HackSU 2022
 * Analyzed finance articles via web scraping and NLP
 * Compared sentiment analysis score w/ stock price changes
 * Python, VS Code
+
+---
+
+[K-means via Spark](https://github.com/thoresonjd/k-means_spark) | February 2022
+* Implements K-means clustering in Spark via RDDs
+* Apache Spark, RDDs, Python, VS Code
 
 ---
 
@@ -61,7 +61,7 @@ Senior Capstone Project
 * 3rd Place - Personal Projects Competition SU ACM
 *	Mobile application that transforms 2D images into 3D models where pixel depth is dependent on colorblindness type
 *	Fullstack, designed UX/UI and created camera functionality for image processing
-*	Dart, Flutter, Visual Studio Code
+*	Dart, Flutter, VS Code
 
 ---
 
@@ -73,13 +73,13 @@ Senior Capstone Project
 
 [Global Calendar](https://github.com/Alex-Sheardown/Global-Calendar) | January 2021 - March 2021
 *	SaaS application that provides a convenient way to schedule events across different time zones
-*	TypeScript, HTML/CSS, Angular, MongoDB, WebStorm
+*	TypeScript, NodeJS, Angular, MongoDB, WebStorm
 
 ---
 
 [ASCII Rocket Launch](https://github.com/thoresonjd/ascii-rocket-launch) | June 2019
 * A simple program animating an ASCII rocket ship launch
-*	My first personal project and one of my first programs
+*	My first personal project, and one of my first programs
 * C++, Visual Studio
 
 ---
