@@ -12,12 +12,12 @@
   <tr> -->
     <tr>
     <td width="80%">
-      <b>Software Engineer Intern</b> | June 2022 - Present<br />
+      <b>Software Engineer Intern</b> | June 2022 - September 2022<br />
       T-Mobile<br />
       <ul>
         <li>Digital Architecture & Cybersecurity</li>
-        <li>Codifying architecture for scalable and automated API authorization assessment</li>
-        <li>Filed patent application for API authorization project</li>
+        <li>Codified architecture for scalable and automated API authorization assessment</li>
+        <li>Filed patent application for API authorization service</li>
         <li>TypeScript, JavaScript, SQL, Postman, VS Code, GitLab</li>
       </ul>
     </td>
