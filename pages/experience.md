@@ -2,15 +2,20 @@
 
 <h1 align="center">Experience</h1>
 <table>
-<!--   <tr>
+  <tr>
     <td width="80%">
-      <b>Software Engineer</b> - Part Time | July 2022 - Present<br />
+      <b>Software Engineer</b> | July 2022 - Present<br />
       Votegrity<br />
+      <ul>  
+        <li>Part time software development</li>
+        <li>Implementing functionality for election administration tool</li>
+        <li>Instantiated new virtual machine by upgrading existing software from scratch</li>
+        <li>React, JavaScript, Python, Azure, VS Code</li>
+      </ul>
     </td>
     <td><image alt="Votegrity" src="../assets/images/votegrity-branding-dark.jpg" /></td>
   </tr>
-  <tr> -->
-    <tr>
+  <tr>
     <td width="80%">
       <b>Software Engineer Intern</b> | June 2022 - September 2022<br />
       T-Mobile<br />
