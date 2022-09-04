@@ -7,6 +7,7 @@
       <b>Master of Science in Computer Science</b> | Anticipated June 2023<br />
       Seattle University - Seattle, WA<br />
       GPA: 4.0
+      Graduate Representative - Seattle University ACM
     </td>
     <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
   </tr>
