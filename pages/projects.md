@@ -24,7 +24,7 @@ Senior Capstone Project
 
 ---
 
-[Image Processor](https://github.com/thoresonjd/image-processor) | April 2022 - May 2022
+[Image Processor API](https://github.com/thoresonjd/image-processor) | April 2022 - May 2022
 * Utilizes a RESTful API to process image transformations
 * Created with emphasis on architectural design patterns
 * C#, Python, TypeScript, React, Flask, REST, VS Code
