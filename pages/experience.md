@@ -17,7 +17,7 @@
   </tr> -->
   <tr>
     <td width="80%">
-      <b>Software Engineer Intern</b> | June 2022 - September 2022<br />
+      <b>Software Engineer Intern</b> | June 2022 - Present<br />
       T-Mobile<br />
       <ul>
         <li>Digital Architecture & Cybersecurity</li>
