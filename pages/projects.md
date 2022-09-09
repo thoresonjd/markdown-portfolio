@@ -17,7 +17,7 @@
 **Votegrity SaaS Solution** | September 2021 - June 2022\
 Sponsor: Tom Thomas - Votegrity Founder & CEO\
 Senior Capstone Project
-* Responsible for building a new admin tool
+* Created net new election administration tool
 * Project Manager, Scrum Master, DevOps, collaborated with a team to design and integrate a new admin tool
 * Codified election creation functionality for election administrators
 * React, JavaScript, NodeJS, VS Code, Agile, Scrum
